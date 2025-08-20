@@ -1,0 +1,16 @@
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data & models
+data/
+artifacts/
+*.csv
+*.joblib
+*.pkl
+*.pt
+*.bin
+
+# Streamlit cache
+.streamlit/
