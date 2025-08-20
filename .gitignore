@@ -3,6 +3,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
+# Note: this was causing a git push block
+
 # Data & models
 data/
 artifacts/
